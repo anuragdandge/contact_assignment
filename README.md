@@ -14,3 +14,53 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# Contact List App
+
+This is a Flutter app for managing your contacts.
+
+## Getting Started
+
+These instructions will help you run the app on your local machine.
+
+### Prerequisites
+
+- [Flutter](https://flutter.dev/docs/get-started/install) must be installed on your machine.
+
+### Installing
+
+1. Clone the repository.
+
+   ```bash
+   git clone https://github.com/anuragdandge/Assignment.git
+   ```
+
+2. Change your working directory to the project folder.
+
+   ```bash
+   cd contact-app
+   ```
+
+3. Get the required packages.
+
+   ```bash
+   flutter pub get
+   ```
+
+4. Running the App
+
+   To run the app, use the following command:
+
+   ```bash
+   flutter run
+   ```
+
+## Feature
+
+- Create new Contact with Parameters `Name,Phone Number, Email ID , Address `,
+- View Contact list
+- Delete Contact
+- Dial number
+- Mail to the Contact
+- Firebase Database Connectivity
+- Realtime Updates 

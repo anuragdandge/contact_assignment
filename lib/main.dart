@@ -23,7 +23,7 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       theme: ThemeData(useMaterial3: true),
-      home:const AddContactsScreen(),
+      home: const AddContactsScreen(),
     );
   }
 }
