@@ -64,3 +64,7 @@ These instructions will help you run the app on your local machine.
 - Mail to the Contact
 - Firebase Database Connectivity
 - Realtime Updates 
+- RegEx Validation
+
+## Screenshots 
+ ![SS1](https://github.com/anuragdandge/contact_assignment/blob/main/screenshots/ss1.png)
