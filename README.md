@@ -68,3 +68,12 @@ These instructions will help you run the app on your local machine.
 
 ## Screenshots 
  ![SS1](https://github.com/anuragdandge/contact_assignment/blob/main/screenshots/ss1.png)
+ ![SS1](https://github.com/anuragdandge/contact_assignment/blob/main/screenshots/ss2.png)
+ ![SS1](https://github.com/anuragdandge/contact_assignment/blob/main/screenshots/ss3.png)
+ ![SS1](https://github.com/anuragdandge/contact_assignment/blob/main/screenshots/ss4.png)
+ ![SS1](https://github.com/anuragdandge/contact_assignment/blob/main/screenshots/ss5.png)
+ ![SS1](https://github.com/anuragdandge/contact_assignment/blob/main/screenshots/ss6.png)
+
+
+## Apk Link 
+  [Install]() 
