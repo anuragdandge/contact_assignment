@@ -76,4 +76,4 @@ These instructions will help you run the app on your local machine.
 
 
 ## Apk Link 
-  [Install]() 
+  [Install](https://github.com/anuragdandge/contact_assignment/blob/main/app-release.apk) Download from here 
