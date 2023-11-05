@@ -1,23 +1,16 @@
-# Assignment
+# contact_assignment
 
-Assignment Overview:
-Your task is to create a basic Contact Form app using the Flutter framework. The app should have the following features:
+A new Flutter project.
 
-1. A user-friendly form with fields for adding a new contact, including Name, Email, Phone Number, and Address.
+## Getting Started
 
-2. The ability to submit the form, with the data being sent and stored in a Firebase Cloud Firestore database.
+This project is a starting point for a Flutter application.
 
-3. Implement the Bloc state management pattern to manage the state of your app efficiently.
+A few resources to get you started if this is your first Flutter project:
 
-Requirements:
-To successfully complete this assignment, you are expected to demonstrate the following skills and practices:
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-1. Flutter Expertise: Showcase your proficiency in building Flutter apps. Pay attention to UI/UX design principles and ensure a smooth user experience.
-
-2. Firebase Integration: This includes setting up Firebase and using Firebase Firestore for data storage.
-
-3. Bloc Pattern: Implement the Bloc pattern for state management. Clearly define events, states, and blocs in your app to manage user interactions effectively.
-
-4. Exception Handling: Implement robust error handling and exception management in your code.
-
-Documentation: Provide clear and concise documentation, including comments in your code and a README file that explains how to run the app and any additional information about your implementation.
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
