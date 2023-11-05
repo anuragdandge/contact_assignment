@@ -32,13 +32,13 @@ These instructions will help you run the app on your local machine.
 1. Clone the repository.
 
    ```bash
-   git clone https://github.com/anuragdandge/Assignment.git
+   git clone https://github.com/anuragdandge/contact_assignment.git
    ```
 
 2. Change your working directory to the project folder.
 
    ```bash
-   cd contact-app
+   cd contact_assignment
    ```
 
 3. Get the required packages.
