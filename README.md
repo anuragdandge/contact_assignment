@@ -88,7 +88,7 @@ These instructions will help you run the app on your local machine.
   [Download](https://drive.google.com/file/d/1sRZXsDCtLG2vM7LAHkWxNcaI2f6Z8PMk/view?usp=sharing) Debug Apk from here 
   
 ## Screenshots 
-|---------------------------------------------------------|----------------------------------------------------------|-------------------------------------------------------|
-|<img src="/screenshots/ss1.png" width="180" heigh="350"> | <img src="/screenshots/ss2.png" width="180" heigh="350"> | <img src="/screenshots/ss3.png" width="180" heigh="350"> |
-|<img src="/screenshots/ss4.png" width="180" heigh="350"> | <img src="/screenshots/ss5.png" width="180" heigh="350"> | <img src="/screenshots/ss6.png" width="180" heigh="350"> |
-|<img src="/screenshots/ss7.png" width="180" heigh="350"> |
+| | | | | |
+|-|-|-|-|-|
+|<img src="/screenshots/ss1.png" width="180" heigh="350"> | <img src="/screenshots/ss2.png" width="180" heigh="350"> | <img src="/screenshots/ss3.png" width="180" heigh="350"> |<img src="/screenshots/ss4.png" width="180" heigh="350"> | <img src="/screenshots/ss5.png" width="180" heigh="350"> |
+|<img src="/screenshots/ss6.png" width="180" heigh="350"> | <img src="/screenshots/ss7.png" width="180" heigh="350"> |
