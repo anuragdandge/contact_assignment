@@ -85,11 +85,10 @@ These instructions will help you run the app on your local machine.
 - RegEx Validation
 
 ## Apk Link 
-  [Download](https://drive.google.com/file/d/1WBe7NJ38N6cUxy5Z1Ky--tF9j8jc5aHM/view?usp=sharing) Debug Apk from here 
+  [Download](https://drive.google.com/file/d/1sRZXsDCtLG2vM7LAHkWxNcaI2f6Z8PMk/view?usp=sharing) Debug Apk from here 
   
 ## Screenshots 
-|                                                         |                                                          |                                                          | 
-|---------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|
-|<img src="/screenshots/ss1.png" width="120" heigh="250"> | <img src="/screenshots/ss2.png" width="120" heigh="250"> | <img src="/screenshots/ss3.png" width="120" heigh="250"> |
-|<img src="/screenshots/ss4.png" width="120" heigh="250"> | <img src="/screenshots/ss5.png" width="120" heigh="250"> | <img src="/screenshots/ss6.png" width="120" heigh="250"> |
-|<img src="/screenshots/ss7.png" width="120" heigh="250"> |
+| | | | | |
+|-|-|-|-|-|
+|<img src="/screenshots/ss1.png" width="180" heigh="350"> | <img src="/screenshots/ss2.png" width="180" heigh="350"> | <img src="/screenshots/ss3.png" width="180" heigh="350"> |<img src="/screenshots/ss4.png" width="180" heigh="350"> | <img src="/screenshots/ss5.png" width="180" heigh="350"> |
+|<img src="/screenshots/ss6.png" width="180" heigh="350"> | <img src="/screenshots/ss7.png" width="180" heigh="350"> |
