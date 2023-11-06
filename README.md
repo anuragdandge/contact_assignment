@@ -112,5 +112,5 @@ These instructions will help you run the app on your local machine.
  ![SS6](https://github.com/anuragdandge/contact_assignment/blob/main/screenshots/ss6.png =100x50)
  ![SS7](https://github.com/anuragdandge/contact_assignment/blob/main/screenshots/ss7.png =100x50)
 
-
+<img src="[Assets/icon.png](https://github.com/anuragdandge/contact_assignment/blob/main/screenshots/ss1.png)https://github.com/anuragdandge/contact_assignment/blob/main/screenshots/ss1.png" width="70" heigh="150">
 
