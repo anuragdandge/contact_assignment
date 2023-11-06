@@ -104,13 +104,8 @@ These instructions will help you run the app on your local machine.
   [Download](https://github.com/anuragdandge/contact_assignment/blob/main/app-release.apk) Debug Apk from here 
   
 ## Screenshots 
- ![SS1](https://github.com/anuragdandge/contact_assignment/blob/main/screenshots/ss1.png =100x50) 
- ![SS2](https://github.com/anuragdandge/contact_assignment/blob/main/screenshots/ss2.png =100x50)
- ![SS3](https://github.com/anuragdandge/contact_assignment/blob/main/screenshots/ss3.png =100x50)
- ![SS4](https://github.com/anuragdandge/contact_assignment/blob/main/screenshots/ss4.png =100x50)
- ![SS5](https://github.com/anuragdandge/contact_assignment/blob/main/screenshots/ss5.png =100x50)
- ![SS6](https://github.com/anuragdandge/contact_assignment/blob/main/screenshots/ss6.png =100x50)
- ![SS7](https://github.com/anuragdandge/contact_assignment/blob/main/screenshots/ss7.png =100x50)
-
-<img src="https://github.com/anuragdandge/contact_assignment/blob/main/screenshots/ss1.png)https://github.com/anuragdandge/contact_assignment/blob/main/screenshots/ss1.png" width="70" heigh="150">
-
+|                                                         |                                                          |                                                          | 
+|---------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|
+|<img src="/screenshots/ss1.png" width="120" heigh="250"> | <img src="/screenshots/ss2.png" width="120" heigh="250"> | <img src="/screenshots/ss3.png" width="120" heigh="250"> |
+|<img src="/screenshots/ss4.png" width="120" heigh="250"> | <img src="/screenshots/ss5.png" width="120" heigh="250"> | <img src="/screenshots/ss6.png" width="120" heigh="250"> |
+|<img src="/screenshots/ss7.png" width="120" heigh="250"> |
