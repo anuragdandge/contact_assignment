@@ -6,14 +6,14 @@ import 'package:flutter/material.dart';
 
 import 'package:flutter_bloc/flutter_bloc.dart';
 
-class AddContactsScreen extends StatefulWidget {
-  const AddContactsScreen({super.key});
+class ViewContact extends StatefulWidget {
+  const ViewContact({super.key});
 
   @override
-  State<AddContactsScreen> createState() => _AddContactsScreenState();
+  State<ViewContact> createState() => _ViewContactState();
 }
 
-class _AddContactsScreenState extends State<AddContactsScreen> {
+class _ViewContactState extends State<ViewContact> {
   final TextEditingController _name = TextEditingController();
   final TextEditingController _email = TextEditingController();
   final TextEditingController _phone = TextEditingController();
@@ -280,15 +280,10 @@ class _AddContactsScreenState extends State<AddContactsScreen> {
                 ),
               );
             case NoContactsState:
-              return Scaffold(
-                appBar: AppBar(
-                  title: const Text("Contact List"),
-                ),
-                body: const Center(
-                  child: Text("No Contacts "),
-                ),
-                floatingActionButton: fab(),
+              return const Center(
+                child: Text("No Contacts "),
               );
+
             case ContactErrorState:
               return const Center(
                 child: Text("Error"),
