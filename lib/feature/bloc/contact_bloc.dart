@@ -10,34 +10,13 @@ part 'contact_state.dart';
 
 class ContactBloc extends Bloc<ContactEvent, ContactState> {
   ContactBloc() : super(ContactInitialState()) {
-    on<AddContactEvent>(addContactEvent);
     on<ContactInitial>(contactInitial);
+    on<AddContactEvent>(addContactEvent);
     on<DeleteContactEvent>(deleteContactEvent);
     on<NoContactsEvent>(noContactsEvent);
     on<ContactLoadedSuccessEvent>(contactLoadedSuccessEvent);
   }
   var collection = FirebaseFirestore.instance.collection('contacts');
-
-  FutureOr<void> addContactEvent(
-      AddContactEvent event, Emitter<ContactState> emit) async {
-    CollectionReference collRef =
-        FirebaseFirestore.instance.collection('contacts');
-    collRef.add({
-      'name': event.contact.name,
-      'phone': event.contact.phone,
-      'email': event.contact.emailId,
-      'addr': event.contact.addr,
-      'uuid': event.contact.uuid,
-    });
-
-    var data = await collection.get();
-
-    late List<Map<String, dynamic>> tempList = [];
-    for (var element in data.docs) {
-      tempList.add(element.data());
-    }
-    emit(ContactLoadedSuccessState(contacts: tempList));
-  }
 
   FutureOr<void> contactInitial(
       ContactInitial event, Emitter<ContactState> emit) async {
@@ -61,6 +40,29 @@ class ContactBloc extends Bloc<ContactEvent, ContactState> {
       emit(ContactErrorState());
     }
   }
+
+  FutureOr<void> addContactEvent(
+      AddContactEvent event, Emitter<ContactState> emit) async {
+    CollectionReference collRef =
+        FirebaseFirestore.instance.collection('contacts');
+    collRef.add({
+      'name': event.contact.name,
+      'phone': event.contact.phone,
+      'email': event.contact.emailId,
+      'addr': event.contact.addr,
+      'uuid': event.contact.uuid,
+    });
+
+    var data = await collection.get();
+
+    late List<Map<String, dynamic>> tempList = [];
+    for (var element in data.docs) {
+      tempList.add(element.data());
+    }
+    emit(ContactLoadedSuccessState(contacts: tempList));
+  }
+
+  
 
   FutureOr<void> contactLoadedSuccessEvent(
       ContactLoadedSuccessEvent event, Emitter<ContactState> emit) async {
