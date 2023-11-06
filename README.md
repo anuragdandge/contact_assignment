@@ -85,7 +85,7 @@ These instructions will help you run the app on your local machine.
 - RegEx Validation
 
 ## Apk Link 
-  [Download](https://drive.google.com/file/d/1sRZXsDCtLG2vM7LAHkWxNcaI2f6Z8PMk/view?usp=sharing) Debug Apk from here 
+  [Download](https://drive.google.com/file/d/1q3zlPNkslAo6a8vcZLdvaCJiyoA11zEx/view?usp=sharing) Debug Apk from here 
   
 ## Screenshots 
 | | | | | |
