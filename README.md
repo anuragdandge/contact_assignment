@@ -104,13 +104,13 @@ These instructions will help you run the app on your local machine.
   [Download](https://github.com/anuragdandge/contact_assignment/blob/main/app-release.apk) Debug Apk from here 
   
 ## Screenshots 
- ![SS1](https://github.com/anuragdandge/contact_assignment/blob/main/screenshots/ss1.png)
- ![SS2](https://github.com/anuragdandge/contact_assignment/blob/main/screenshots/ss2.png)
- ![SS3](https://github.com/anuragdandge/contact_assignment/blob/main/screenshots/ss3.png)
- ![SS4](https://github.com/anuragdandge/contact_assignment/blob/main/screenshots/ss4.png)
- ![SS5](https://github.com/anuragdandge/contact_assignment/blob/main/screenshots/ss5.png)
- ![SS6](https://github.com/anuragdandge/contact_assignment/blob/main/screenshots/ss6.png)
- ![SS7](https://github.com/anuragdandge/contact_assignment/blob/main/screenshots/ss7.png)
+ ![SS1](https://github.com/anuragdandge/contact_assignment/blob/main/screenshots/ss1.png =100x50) 
+ ![SS2](https://github.com/anuragdandge/contact_assignment/blob/main/screenshots/ss2.png =100x50)
+ ![SS3](https://github.com/anuragdandge/contact_assignment/blob/main/screenshots/ss3.png =100x50)
+ ![SS4](https://github.com/anuragdandge/contact_assignment/blob/main/screenshots/ss4.png =100x50)
+ ![SS5](https://github.com/anuragdandge/contact_assignment/blob/main/screenshots/ss5.png =100x50)
+ ![SS6](https://github.com/anuragdandge/contact_assignment/blob/main/screenshots/ss6.png =100x50)
+ ![SS7](https://github.com/anuragdandge/contact_assignment/blob/main/screenshots/ss7.png =100x50)
 
 
 
