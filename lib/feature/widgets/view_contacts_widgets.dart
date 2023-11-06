@@ -246,7 +246,7 @@ class ContactTile extends StatelessWidget {
         color: Colors.deepPurple[100],
         borderRadius: BorderRadius.circular(20),
       ),
-      margin: const EdgeInsets.only(left: 12, right: 12, bottom: 12),
+      margin: const EdgeInsets.only(left: 12, right: 12, bottom: 12, top: 10),
       child: Column(
         children: [
           Row(
