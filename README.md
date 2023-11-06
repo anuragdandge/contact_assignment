@@ -27,6 +27,8 @@ These instructions will help you run the app on your local machine.
 
 - [Flutter](https://flutter.dev/docs/get-started/install) must be installed on your machine.
 
+  
+
 ### Installing
 
 1. Clone the repository.
@@ -55,6 +57,38 @@ These instructions will help you run the app on your local machine.
    flutter run
    ```
 
+
+### Firebase Setup 
+
+1. Install the Firebase CLI via ```npm``` by running the following command:
+
+   ```bash
+   npm install -g firebase-tools 
+   ```
+
+2. Log into Firebase using your Google account by running the following command:
+
+   ```bash
+   firebase login
+   ```
+
+ 3. Test that the CLI is properly installed and accessing your account by listing your Firebase projects. Run the following command:
+   
+   ```bash
+   firebase projects:list  
+   ```
+
+ 4. Install the FlutterFire CLI by running the following command from any directory:
+   
+   ```bash
+   dart pub global activate flutterfire_cli
+   ```
+ 5. run the following command to ensure that your Flutter app's Firebase configuration is up-to-date:
+   ```bash
+   flutterfire configure
+   ```
+
+
 ## Feature
 
 - Create new Contact with Parameters `Name,Phone Number, Email ID , Address `,
@@ -66,14 +100,17 @@ These instructions will help you run the app on your local machine.
 - Realtime Updates 
 - RegEx Validation
 
+## Apk Link 
+  [Download](https://github.com/anuragdandge/contact_assignment/blob/main/app-release.apk) Debug Apk from here 
+  
 ## Screenshots 
  ![SS1](https://github.com/anuragdandge/contact_assignment/blob/main/screenshots/ss1.png)
- ![SS1](https://github.com/anuragdandge/contact_assignment/blob/main/screenshots/ss2.png)
- ![SS1](https://github.com/anuragdandge/contact_assignment/blob/main/screenshots/ss3.png)
- ![SS1](https://github.com/anuragdandge/contact_assignment/blob/main/screenshots/ss4.png)
- ![SS1](https://github.com/anuragdandge/contact_assignment/blob/main/screenshots/ss5.png)
- ![SS1](https://github.com/anuragdandge/contact_assignment/blob/main/screenshots/ss6.png)
+ ![SS2](https://github.com/anuragdandge/contact_assignment/blob/main/screenshots/ss2.png)
+ ![SS3](https://github.com/anuragdandge/contact_assignment/blob/main/screenshots/ss3.png)
+ ![SS4](https://github.com/anuragdandge/contact_assignment/blob/main/screenshots/ss4.png)
+ ![SS5](https://github.com/anuragdandge/contact_assignment/blob/main/screenshots/ss5.png)
+ ![SS6](https://github.com/anuragdandge/contact_assignment/blob/main/screenshots/ss6.png)
+ ![SS7](https://github.com/anuragdandge/contact_assignment/blob/main/screenshots/ss7.png)
 
 
-## Apk Link 
-  [Install](https://github.com/anuragdandge/contact_assignment/blob/main/app-release.apk) Download from here 
+
